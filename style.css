@@ -1,0 +1,15 @@
+.body_background{
+    background-image: url("12.jfif");
+    background-size: cover;
+    background-position: center;
+}
+
+body{
+    text-align: center;
+}
+
+#myCanvas{
+    background-color: azure;
+    border-width: 10px;
+    border-style: ridge;
+}
